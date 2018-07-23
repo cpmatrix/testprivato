@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:torzoTest" x:Class="torzoTest.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Titolo" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Button x:Name="bt_http" Text=" Carica HTTP " BorderWidth="1" HorizontalOptions="Center" Clicked="Handle_Clicked" ></Button>
+        <ActivityIndicator x:Name="Indicator1" IsRunning="false"/>
+        <Label x:Name="label_testo" Text="controllo http" HorizontalOptions="Center"></Label>
+        <Label x:Name="lb_test" Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+</ContentPage>
