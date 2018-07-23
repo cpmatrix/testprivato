@@ -44,20 +44,8 @@ namespace torzoTest
             else{
                 await DisplayAlert("messaggio", "Connettività assente", "OK");
             }
-            //var request = new HttpRequestMessage();
-            //request.RequestUri = new Uri("http://192.168.10.70:8081/command=get?token");
-            //request.Method = HttpMethod.Get;
-            //request.Headers.Add("Accept", "application/json");
-           
-           // DisplayAlert("messaggio", rest, "OK");
-            //HttpResponseMessage reposponse = await client.SendAsync(request);
-            //if (reposponse.StatusCode == System.Net.HttpStatusCode.OK)
-            //{
-            //    HttpContent content = reposponse.Content;
-            //    var risposta = await content.ReadAsStringAsync();
-            //    //DisplayAlert("messaggio",risposta.ToString(), "OK");
 
-            //}
+
         }
 
         public async void loadToken2()
