@@ -42,7 +42,7 @@ namespace torzoTest
                 await DisplayAlert("Messaggio Leto", rest, "OK");
             }
             else{
-                await DisplayAlert("messaggio", "Connettività assente", "OK");
+                await DisplayAlert("messaggio", "Connettività assente", "OK2");
             }
 
 
