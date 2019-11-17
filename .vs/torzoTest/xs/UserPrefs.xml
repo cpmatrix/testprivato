@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B6F2AE54-2414-4BF6-83D4-8069E5809308}|Default">
+  <MonoDevelop.Ide.ItemProperties.torzoTest.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="torzoTest/App.xaml">
+    <Files>
+      <File FileName="torzoTest/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="torzoTest" expanded="True">
+            <Node name="torzoTest" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True" />
+            </Node>
+            <Node name="torzoTest.Android" expanded="True" />
+            <Node name="torzoTest.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
